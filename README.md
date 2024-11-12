@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TypeScript, PostgreSql and machine learning**
 
-- 📫 How to reach me **https://www.linkedin.com/in/yasmineroukas/**
+- 📫 How to reach me? **https://www.linkedin.com/in/yasmineroukas/**
 **https://www.behance.net/yasmineroukas1**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
