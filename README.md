@@ -8,6 +8,7 @@
 
 - 📫 How to reach me? **https://www.linkedin.com/in/yasmineroukas/**
 **https://www.behance.net/yasmineroukas1**
+**https://www.instagram.com/uiux.yasmine?igsh=eHB6dmJycnpuOXZ4**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yasmine roukas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasmine roukas" height="30" width="40" /></a>
