@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yasmine Roukas</h1>
-<h3 align="center">A UI/UX designer and a Frontend Developer and currently a third-year student at the Higher School of Informatics (ESTIN). On a journey of constant learning and tech exploration. Loving the dive into new tools and finding cool ways to build amazing web stuff. Whether it's making user-friendly websites or trying out the latest web tech, always up for a tech adventure!</h3>
+<h3 align="center">A UI/UX designer and a Frontend Developer, ai enthusiast and currently a third-year student at the Higher School of Informatics (ESTIN). On a journey of constant learning and tech exploration. Loving the dive into new tools and finding cool ways to build amazing web stuff. Whether it's making user-friendly websites or trying out the latest web tech, always up for a tech adventure!</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasmineroukas&label=Profile%20views&color=0e75b6&style=flat" alt="yasmineroukas" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, PostgreSql and machine learning**
+- 🌱 I’m currently learning ** deep learning**
 
 - 📫 How to reach me? **https://www.linkedin.com/in/yasmineroukas/**
 **https://www.behance.net/yasmineroukas1**
